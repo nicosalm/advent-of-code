@@ -1,2 +1,2 @@
 # advent-of-code
-christmas year round :)
+learning is a christmas gift year round :)
