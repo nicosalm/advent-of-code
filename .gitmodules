@@ -1,0 +1,3 @@
+[submodule "aoc-tools"]
+	path = aoc-tools
+	url = https://github.com/brtwrst/aoc-tools.git
